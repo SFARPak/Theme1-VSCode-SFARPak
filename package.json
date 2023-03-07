@@ -1,0 +1,22 @@
+{
+  "name": "theme1-vscode-sfarpak",
+  "displayName": "Theme1-VSCode-SFARPak",
+  "description": "This is our first theme for VSCode, please appreciate if you like. AliTech Solutions",
+  "version": "0.0.2",
+  "publisher": "AliTechSolutions",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theme1-VSCode-SFARPak",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Theme1-VSCode-SFARPak-color-theme.json"
+      }
+    ]
+  }
+}
