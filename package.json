@@ -2,10 +2,10 @@
   "name": "theme1-vscode-sfarpak",
   "displayName": "Theme1-VSCode-SFARPak",
   "description": "This is our first theme for VSCode, please appreciate if you like. AliTech Solutions",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "AliTechSolutions",
   "engines": {
-    "vscode": "^1.76.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
